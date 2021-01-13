@@ -1,0 +1,13 @@
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\bin\Debug\netcoreapp3.1\3Exercise10.exe
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\bin\Debug\netcoreapp3.1\3Exercise10.deps.json
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\bin\Debug\netcoreapp3.1\3Exercise10.runtimeconfig.json
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\bin\Debug\netcoreapp3.1\3Exercise10.runtimeconfig.dev.json
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\bin\Debug\netcoreapp3.1\3Exercise10.dll
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\bin\Debug\netcoreapp3.1\3Exercise10.pdb
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.csprojAssemblyReference.cache
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.AssemblyInfoInputs.cache
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.AssemblyInfo.cs
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.csproj.CoreCompileInputs.cache
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.dll
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.pdb
+W:\Visual Studio code\C#\3Exercise10\3Exercise10\obj\Debug\netcoreapp3.1\3Exercise10.genruntimeconfig.cache
